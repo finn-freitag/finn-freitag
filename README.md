@@ -1,2 +1,1 @@
-# finn-freitag
- Repository for github main page
+## Hi, I'm Finn, a student from Germany.
