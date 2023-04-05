@@ -15,11 +15,11 @@
 
 <div>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio.svg" title="Visual Studio" alt="Visual Studio" height="40">
-<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="Visual Studio Code" height="30">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" title="IntelliJ" alt="IntelliJ" height="40">
+<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" title="Visual Studio Code" alt="Visual Studio Code" height="30">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/android_studio.svg" title="Android Studio" alt="Android Studio" height="20">
 <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="30" height="30">
-<img src="https://github.com/devicons/devicon/blob/master/icons/inkscape/inkscape-original.svg" title="Inkscape" alt="Inkscape" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Bledner" width="30" height="30">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/wpf.svg" title="WPF" alt="WPF" height="30">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/frameworks/unity.svg" title="Unity" alt="Unity" height="20">
