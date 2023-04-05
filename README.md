@@ -31,6 +31,7 @@
 <div>
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/desktop.svg" title="Desktop" alt="Desktop" height="40">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/web.svg" title="Web" alt="Web" height="30">
+<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/gamedev.svg" title="Game Dev" alt="Game Dev" height="20">
 <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/ai.svg" title="AI" alt="AI" height="20">
 <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" title="Data Science" alt="Data Science" height="20">-->
 </div>
