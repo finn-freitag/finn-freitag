@@ -36,4 +36,4 @@
 <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" title="Data Science" alt="Data Science" height="20">-->
 </div>
 
-## I don't normally use libraries, so there is probably more code in some repositories than expected.
+## I don't normally use libraries (except .NET Framework or equivalents), so there is probably more code in some repositories than expected.
