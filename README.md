@@ -1,5 +1,7 @@
 ## Hi, I'm Finn, a student from Germany.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11784TA)
+
 ## Languages:
 
 <div>
