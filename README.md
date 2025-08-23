@@ -36,9 +36,9 @@
 <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" title="Data Science" alt="Data Science" height="20">-->
 </div>
 
-<div style="display:grid;grid-template-columns: repeat(2, minmax(300px, 1fr));grid-auto-flow: row;">
-<img src="finnfreitag.png" />
-<img src="mastodon.png" />
-<img src="stackoverflow.png" />
-<img src="kofi.png" />
+<div style="display:flex;justify-content:spaced-evenly;align-items:center;flex-direction:row;width:100%;">
+<img src="finnfreitag.png" width="45%" />
+<img src="mastodon.png" width="45%" />
+<img src="stackoverflow.png" width="45%" />
+<img src="kofi.png" width="45%" />
 </div>
