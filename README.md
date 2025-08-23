@@ -37,8 +37,8 @@
 </div>
 
 <div style="display:flex;justify-content:spaced-evenly;align-items:center;flex-direction:row;width:100%;">
-<img src="finnfreitag.png" width="45%" />
-<img src="mastodon.png" width="45%" />
-<img src="stackoverflow.png" width="45%" />
-<img src="kofi.png" width="45%" />
+<img src="finnfreitag.png" style="width:45%;margin:10px;" />
+<img src="mastodon.png" style="width:45%;margin:10px;" />
+<img src="stackoverflow.png" style="width:45%;margin:10px;" />
+<img src="kofi.png" style="width:45%;margin:10px;" />
 </div>
