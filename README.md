@@ -1,7 +1,5 @@
 ## Hi, I'm Finn, a student from Germany.
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11784TA)
-
 ## Languages:
 
 <div>
@@ -38,4 +36,9 @@
 <!--<img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/misc/datascience.svg" title="Data Science" alt="Data Science" height="20">-->
 </div>
 
-## I don't normally use libraries (except .NET Framework or equivalents), so there is probably more code in some repositories than expected.
+<div style="display:grid;grid-template-columns: repeat(2, minmax(300px, 1fr));grid-auto-flow: row;">
+<img src="finnfreitag.png" />
+<img src="mastodon.png" />
+<img src="stackoverflow.png" />
+<img src="kofi.png" />
+</div>
