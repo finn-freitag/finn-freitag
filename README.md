@@ -18,7 +18,7 @@
 ## Links:
 
 <div style="display:flex;justify-content:spaced-evenly;align-items:center;flex-direction:row;width:100%;">
-<a href="https://finnfreita.com?ref=github"><img src="finnfreitag.png" style="width:45%;margin:10px;" /></a>
+<a href="https://finnfreita.com?utm_source=github"><img src="finnfreitag.png" style="width:45%;margin:10px;" /></a>
 <a href="https://mastodon.social/@FinnFreitag"><img src="mastodon.png" style="width:45%;margin:10px;" /></a>
 <a href="https://makerworld.com/de/@finnfreitag.com"><img src="makerworld.png" style="width:45%;margin:10px;" /></a>
 <a href="https://www.linkedin.com/in/finnfreitag/"><img src="linkedin.png" style="width:45%;margin:10px;" /></a>
