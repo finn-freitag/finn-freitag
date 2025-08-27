@@ -20,6 +20,8 @@
 <div style="display:flex;justify-content:spaced-evenly;align-items:center;flex-direction:row;width:100%;">
 <a href="https://finnfreita.com?ref=github"><img src="finnfreitag.png" style="width:45%;margin:10px;" /></a>
 <a href="https://mastodon.social/@FinnFreitag"><img src="mastodon.png" style="width:45%;margin:10px;" /></a>
+<a href="https://makerworld.com/de/@finnfreitag.com"><img src="makerworld.png" style="width:45%;margin:10px;" /></a>
+<a href="https://www.linkedin.com/in/finnfreitag/"><img src="linkedin.png" style="width:45%;margin:10px;" /></a>
 <a href="https://stackoverflow.com/users/17138043/finn"><img src="stackoverflow.png" style="width:45%;margin:10px;" /></a>
 <a href="https://ko-fi.com/finnfreitag/?utm_source=github"><img src="kofi.png" style="width:45%;margin:10px;" /></a>
 </div>
